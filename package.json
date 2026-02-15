@@ -4,9 +4,9 @@
     "description": "A multi functional whatsapp bot Web paircode.",
     "main": "index.js",
     "scripts": {
-      "start": "pm2 start index.js --deep-monitoring --attach --name TREND-X",
-      "stop": "pm2 stop TREND-X",
-     "restart": "pm2 restart TREND-X"
+      "start": "pm2 start index.js --deep-monitoring --attach --name ICE-CUBE",
+      "stop": "pm2 stop ICE-CUBE",
+     "restart": "pm2 restart ICE-CUBE"
     },
   "dependencies": {
    "@whiskeysockets/baileys": "^6.7.17",          
